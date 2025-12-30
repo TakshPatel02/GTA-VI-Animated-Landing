@@ -47,10 +47,6 @@ npm run dev
 - Adjust animation timings in the GSAP timeline (lines 11-30)
 - Change colors and styles in `index.css` or Tailwind classes
 
-## 📄 License
-
-MIT License - Feel free to use this project for personal or commercial purposes.
-
 ## 🙏 Acknowledgments
 
 - Inspired by Grand Theft Auto VI
